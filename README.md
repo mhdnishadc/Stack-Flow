@@ -11,9 +11,8 @@ StackFlow is a modern, full-featured project management tool designed to help te
 - ✅ Task tracking with status and priority indicators
 - 🧠 Visual analytics: task trends, productivity charts
 - 👥 Invite team members and manage roles
-- 📌 Archive and manage recent projects
 - 🔐 JWT-based authentication system
-- 🌗 Dark and Light mode support
+
 
 ## 🛠 Tech Stack
 
