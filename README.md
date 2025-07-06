@@ -27,7 +27,6 @@ StackFlow is a modern, full-featured project management tool designed to help te
 - **Node.js**
 - **Express.js**
 - **MongoDB with Mongoose**
-- **Zod** for schema validation
 - **JWT** for authentication
 
 ## 📦 Installation
